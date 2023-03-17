@@ -1,0 +1,2 @@
+Layer 1: Physical Layer – PHY
+Layer 2: Media Access Control – MAC
